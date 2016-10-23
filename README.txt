@@ -1,0 +1,3 @@
+This is the README for my final term paper in Bayesian Statistics. The paper is titled Falling with Failing Medications: A Bayesian Analysis of the St. Louis OASIS Study. Coding was done using R. The Stan file and R code is included in the paper. 
+
+BayesianTermPaper.PDF - The PDF contains the term paper Falling with Failing Medications: A Bayesian Analysis of the St. Louis OASIS Study. The paper is 9 pages, but the pdf is 12 pages. Part of page 10 contains the references. The appendix starts at the end of the references on page 10; the appendix has extra descriptions and tables. After the end of the appendix on page 11, the code used in R is listed, with the Stan file first, then the R code.
